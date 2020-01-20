@@ -1,0 +1,56 @@
+header
+{
+	height:10vh;
+	background-color:orange;
+	background-position:center;
+}
+*{
+	margin:0;
+	padding:0;
+}
+h1{
+	text-align:center;
+	color:blue;
+	padding:20px;
+}
+element.style{
+	background:blue;
+}
+h5{
+	   color:blue;
+	}
+	h2{
+		color:orange;
+	}
+	#register{
+		background:orange;
+		width:500px;
+		color:black;
+		margin:80px;
+		font-size:18;
+	}
+#footer
+{
+	height:40px;
+	width:100%;
+	color:blue;
+	background:orange;
+}	
+#button{
+		width:40em;
+		height:40em;
+		height:auto;
+	   width:1000px;
+	   margin:0 auto;	
+}
+#formheader{
+	background-color:blue;
+}
+	height:auto;
+	width:1000px;
+	margin:0 auto;
+    background-color:blue;
+  }	
+  #holder{
+	  background-color:blue;
+  }
